@@ -114,6 +114,18 @@ var yearAndroid = new Waypoint({
 		$("#yearAndroid").toggleClass("animated fadeInRight");
 	}
 });
+var panelOctalysis = new Waypoint({
+	element: document.getElementById('curriculo'),
+	handler: function () {
+		$("#panelOctalysis").toggleClass("animated bounceInUp");
+	}
+});
+var yearOctalysis = new Waypoint({
+	element: document.getElementById('curriculo'),
+	handler: function () {
+		$("#yearOctalysis").toggleClass("animated bounceInDown");
+	}
+});
 var panelDell = new Waypoint({
 	element: document.getElementById('curriculo'),
 	handler: function () {
@@ -137,4 +149,5 @@ var contato = new Waypoint({
 	handler: function () {
 		$("#contato").toggleClass("animated jello");
 	}
+
 });
