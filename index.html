@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -9,21 +8,19 @@
 	<link rel="stylesheet" href="css/bootstrap-theme.css">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/animate.min.css">
-	<link rel="stylesheet" href="css/style.min.css">
+	<link rel="stylesheet" href="css/style.css">
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<title>Thiago Behm - Analista e desenvolvedor de sistemas</title>
 </head>
 
-<body>
+<body data-spy="scroll" data-target=".navbar" data-offset="100">
 	<div class="header" id="home" style="background-position: 50%; max-height:700px;">
-		<div class="overlay">
-			<div class="text-center space">
-				<p class="title">Thiago Behm</p>
-				<p class="subtitle">Desenvolvedor Web</p>
-				<p class="description">25 anos, apaixonado por programação.</p>
-				<a href="#profile" class="btn btn-pink text-uppercase">Saiba mais</a>
-			</div>
+		<div class="text-center space title-text col-sm-12">
+			<p class="title">Thiago Behm</p>
+			<p class="subtitle">Desenvolvedor Web</p>
+			<p class="description">25 anos, apaixonado por programação.</p>
+			<a href="#profile" class="btn btn-pink text-uppercase">Saiba mais</a>
 		</div>
 		<nav class="navbar navbar-default navbar-fixed-top" id="main-navbar" role="navigation">
 			<!-- Brand and toggle get grouped for better mobile display -->
@@ -35,60 +32,104 @@
 					<span class="icon-bar"></span>
 				</button>
 			</div>
-			<div class="collapse navbar-collapse responsive-menu">
+			<div class="collapse navbar-collapse responsive-menu center-menu">
 				<ul class="nav navbar-nav">
-					<li><a href="#home">Home</a>
+					<li>
+						<a href="#home">Home</a>
 					</li>
-					<li><a href="#profile">Perfil</a>
+					<li>
+						<a href="#habilidades">Habilidades</a>
 					</li>
-					<li><a href="#portfolio">Portfólio</a>
+					<li>
+						<a href="#portfolio">Portfólio</a>
 					</li>
-					<li><a href="#servicos">Serviços</a>
+					<li>
+						<a href="#curriculo">Currículo</a>
 					</li>
-					<li><a href="#curriculo">Currículo</a>
-					</li>
-					<li><a href="#habilidades">Habilidades</a>
-					</li>
-					<li><a href="#contato">Contato</a>
+					<li>
+						<a href="#contato">Contato</a>
 					</li>
 				</ul>
 			</div>
 		</nav>
 	</div>
+	<!-- inicio habilidades -->
 	<div class="container">
-		<section id="profile">
-			<div class="row">
-				<div class="col-md-8">
-					<h2 class="title text-uppercase">Oi, meu nome é Thiago Behm!</h2>
-					<p class="subTitle">Tenho 25 anos, nascido em São Jerônimo - RS. Eu adoro escutar música, programar e buscar novos conhecimentos.</p>
-					<p class="paragraph text-justify">
-						Atualmente trabalho na Dell Computadores. Passo boa parte do meu tempo livre programando e buscando novos conhecimentos.
-						<br> Formado em análise e desenvolviemento de sistemas 2015/01. Apaixonado por programação web e criação de layouts . Pensando em dar continuidade nos estudos para buscar conhecimento em diferentes áreas.
-					</p>
-					<br>
-					<p class="subTitle">Contato</p>
-					<div class="col-md-5">
-						<p class="paragraph">
-							Thiago Behm
-							<br> Arroio dos Ratos - RS
-							<br> (51) 99127-7389
-							<br>
-							<a href="mailto:thiagoluisbehm@gmail.com">thiagoluisbehm@gmail.com</a>
-							<br>
-						</p>						
-					</div>
-					<div class="col-md-3">
-						<a href="doc/thiagobehm.doc" class="btn btn-pink"> Download Currículo</a>
+		<section id="habilidades">
+			<p class="title text-center">Habilidades</p>
+			<p class="paragraph text-center">Alguns de meus conhecimentos adquiridos e utilizados para a realização dos projetos.</p>
+			<hr>
+			<br>
+			<div class="col-sm-6">
+				<p class="subTitle text-uppercase">
+					HTML5 & CSS3
+				</p>
+				<div class="progress">
+					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
+						<span class="percent" style="left: 80%;" id="skills">85%</span>
 					</div>
 				</div>
-				<div class="col-md-4 text-center">
-					<img src="images/foto-perfil.png" alt="Foto Thiago">
+				<p class="subTitle text-uppercase">
+					JavaScript
+				</p>
+				<div class="progress">
+					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
+						<span class="percent" style="left: 75%;" id="skills2">80%</span>
+					</div>
+				</div>
+				<p class="subTitle text-uppercase">
+					Node.js
+				</p>
+				<div class="progress">
+					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
+						<span class="percent" style="left: 55%;" id="skills3">60%</span>
+					</div>
+				</div>
+				<p class="subTitle text-uppercase">
+					AngularJS
+				</p>
+				<div class="progress">
+					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
+						<span class="percent" style="left: 75%;" id="skills4">80%</span>
+					</div>
 				</div>
 			</div>
-			<!--row-->
+			<div class="col-sm-6">
+				<p class="subTitle text-uppercase">
+					jQuery
+				</p>
+				<div class="progress">
+					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
+						<span class="percent" style="left: 70%;" id="skills5">75%</span>
+					</div>
+				</div>
+				<p class="subTitle text-uppercase">
+					PHP
+				</p>
+				<div class="progress">
+					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="79" aria-valuemin="0" aria-valuemax="100" style="width: 79%;">
+						<span class="percent" style="left: 74%;" id="skills6">79%</span>
+					</div>
+				</div>
+				<p class="subTitle text-uppercase">
+					MySQL
+				</p>
+				<div class="progress">
+					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 84%;">
+						<span class="percent" style="left: 79%;" id="skills7">84%</span>
+					</div>
+				</div>
+				<p class="subTitle text-uppercase">
+					Java EE
+				</p>
+				<div class="progress">
+					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
+						<span class="percent" style="left: 75%;" id="skills8">80%</span>
+					</div>
+				</div>
+			</div>
 		</section>
 	</div>
-	<!--container-->
 	<!-- inicio portfolio -->
 	<div class="container-fluid">
 		<section id=portfolio class="gray portfolio">
@@ -131,107 +172,40 @@
 			</div>
 		</section>
 	</div>
-	<div class="container">
-		<section id="servicos">
-			<div class="row">
-				<div class="col-md-12">
-					<p class="title text-center">Serviços</p>
-					<p class="paragraph text-center">Eu amo o que faço e tenho muito orgulho. Não consigo fazer algo em que eu mesmo não goste. Me envolvo totalmente com o projeto até o final.</p>
-					<hr>
-				</div>
-				<div class="col-md-6 well" id="estrategia">
-					<i class="glyphicon glyphicon-knight icon-services"></i>
-					<p class="subTitle text-uppercase">1. Estratégia</p>
-					<p class="paragraph text-justify">Auxiliar na estratégia e elaboração do seu website. A comunicação é um fator importante para alinharmos as necessidades do cliente.</p>
-				</div>
-				<div class="col-md-6 well" id="marca">
-					<i class="glyphicon glyphicon-bullhorn icon-services"></i>
-					<p class="subTitle text-uppercase">2. Marca</p>
-					<p class="paragraph text-justify">Entender quais plataformas e o que o cliente pretende atingir com a criação de seu sistema. Posicionar bem o site nos buscadores.</p>
-				</div>
-				<div class="col-md-6 well" id="webdesign">
-					<i class="glyphicon glyphicon-list-alt icon-services"></i>
-					<p class="subTitle text-uppercase">3.Webdesign</p>
-					<p class="paragraph text-justify">Após um breafing com o cliente é hora de iniciar o desenvolvimento do layout.</p>
-				</div>
-				<div class="col-md-6 well" id="desenvolvimento">
-					<i class="glyphicon glyphicon-pencil icon-services"></i>
-					<p class="subTitle text-uppercase">4.Desenvolvimento</p>
-					<p class="paragraph text-justify">Com o layout pronto é hora do desenvolvimento e criação de toda a funcionalidade do site.</p>
-				</div>
-			</div>
-		</section>
-	</div>
+	<!-- inicio curriculo -->
 	<div class="container-fluid">
-		<!-- inicio curriculo -->
-		<section class="gray" id="curriculo">
+		<section id="curriculo">
 			<p class="title text-center">Currículo</p>
 			<p class="paragraph text-center">Um resumo sobre minha carreira e estudos, sou também uma pessoa autodidata.</p>
 			<hr>
 			<div class="container">
 				<div class="row">
-					<div class="col-md-2 col-sm-2">
+					<div class="col-sm-2">
 						<p class="subTitle">Educação</p>
-						<span class="resume btn-pink text-center" id="yearFormacao" style="margin-top:30px" id="yearFtec">2010 - 2015</span>
+						<span class="resume btn-pink text-center" style="margin-top:30px" id="yearOctalysis">2016</span>
 					</div>
-					<div class="col-md-1 col-sm-1">
+					<div class="col-sm-1">
 						<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
 					</div>
-					<div class="col-md-9 col-sm-9">
-						<div class="panel panel-pink" id="panelFormacao">
+					<div class="col-sm-9">
+						<div class="panel panel-pink" id="panelOctalysis">
 							<div class="panel-heading">
-								<h3 class="panel-title subTitle text-uppercase">Graduação - Ftec</h3>
+								<h3 class="panel-title subTitle text-uppercase">UX - Udemy</h3>
 							</div>
 							<div class="panel-body">
-								Formação em Ánalise e desenvolvimento de Sistemas
+								UX and Web Desing Master
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-2 col-sm-2">
-						<span class="resume btn-pink text-center" id="yearItil">2014</span>
-					</div>
-					<div class="col-md-1 col-sm-1">
-						<span class="resumeSquare pull-left"> <i class="glyphicon glyphicon-education"></i></span>
-					</div>
-					<div class="col-md-9 col-sm-9">
-						<div class="panel panel-pink" id="panelCertificacao">
-							<div class="panel-heading">
-								<h3 class="panel-title subTitle text-uppercase">Certificação Itil - Exin</h3>
-							</div>
-							<div class="panel-body">
-								Retirada certificação Itil Foundation em novembro de 2014.
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-2 col-sm-2">
-						<span class="resume btn-pink text-center" id="yearAndroid">2013</span>
-					</div>
-					<div class="col-md-1 col-sm-1">
-						<span class="resumeSquare pull-left"> <i class="glyphicon glyphicon-education"></i></span>
-					</div>
-					<div class="col-md-9 col-sm-9">
-						<div class="panel panel-pink" id="panelAndroid">
-							<div class="panel-heading">
-								<h3 class="panel-title subTitle text-uppercase">Curso Android - Ftec</h3>
-							</div>
-							<div class="panel-body">
-								Curso básico de desenvolvimento Android.
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-2 col-sm-2">
+					<div class="col-sm-2">
 						<span class="resume btn-pink text-center" id="yearOctalysis">2016</span>
 					</div>
-					<div class="col-md-1 col-sm-1">
-						<span class="resumeSquare pull-left"> <i class="glyphicon glyphicon-education"></i></span>
+					<div class="col-sm-1">
+						<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
 					</div>
-					<div class="col-md-9 col-sm-9">
+					<div class="col-sm-9">
 						<div class="panel panel-pink" id="panelOctalysis">
 							<div class="panel-heading">
 								<h3 class="panel-title subTitle text-uppercase">The Octalysis Framework - Udemy</h3>
@@ -242,318 +216,14 @@
 						</div>
 					</div>
 				</div>
-				<div class="row" style="margin-top: 50px;">
-					<div class="col-md-2 col-sm-2">
-						<p class="subTitle">Experiência</p>
-						<span class="resume btn-pink text-center" style="margin-top:30px" id="yearDell">2013-Atual</span>
-					</div>
-					<div class="col-md-1 col-sm-1">
-						<span class="resumeSquare"> <i class="glyphicon glyphicon-wrench"></i></span>
-					</div>
-					<div class="col-md-9 col-sm-9">
-						<div class="panel panel-pink" id="panelDell">
-							<div class="panel-heading">
-								<h3 class="panel-title subTitle text-uppercase">Analista de Suporte - Dell</h3>
-							</div>
-							<div class="panel-body">
-								Análise referente aos impactos causados ao cliente devido a falha e propor a melhor e mais breve solução para o cliente.
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-	</div>
-	<div class="container">
-		<!-- inicio habilidades -->
-		<section id="habilidades">
-			<p class="title text-center">Habilidades</p>
-			<p class="paragraph text-center">Alguns de meus conhecimentos adquiridos e utilizados para a realização dos projetos.</p>
-			<hr>
-			<br>
-			<div class="col-md-6 col-sm-6">
-				<p class="subTitle text-uppercase">
-					HTML5 & CSS3
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
-						<span class="percent" style="left: 80%;" id="skills">85%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					JavaScript
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-						<span class="percent" style="left: 75%;" id="skills2">80%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					Desenvolvimento Web
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100" style="width: 92%;">
-						<span class="percent" style="left: 87%;" id="skills3">92%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					AngularJS
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-						<span class="percent" style="left: 85%;" id="skills4">90%</span>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6 col-sm-6">
-				<p class="subTitle text-uppercase">
-					jQuery
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-						<span class="percent" style="left: 70%;" id="skills5">75%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					PHP
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="79" aria-valuemin="0" aria-valuemax="100" style="width: 79%;">
-						<span class="percent" style="left: 74%;" id="skills6">79%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					MySQL
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 84%;">
-						<span class="percent" style="left: 79%;" id="skills7">84%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					Java EE
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-						<span class="percent" style="left: 75%;" id="skills8">80%</span>
-					</div>
-				</div>
-			</div>
-		</section>
-	</div>
-	<div class="container-fluid">
-		<section class="gray" id="contato">
-			<div class="container">
-				<p class="title text-center">Contato</p>
-				<p class="paragraph text-center">Ficou com vontade de implementar seu projeto? Entre em contato...</p>				
-				<a href="mailto:thiagoluisbehm@gmail.com"><img src="images/mail.png" alt="thiagoluisbehm@gmail.com" class="mail"></a><br>
-				<p class="paragraph text-center"><i class="glyphicon glyphicon-phone"></i> (51) 9127-7389</p>
-			</div>
-		</section>
-		<footer>
-			<a href="#" class="topo">
-				<img src="images/topo.png">
-			</a>
-			<div class="text-center">
-				<a href="http://www.facebook.com/thiago.behm" target="_blank"><img src="images/face.png" style="margin-right:15px;" alt="Facebook">
-				</a>
-				<a href="http://twitter.com/thiagobehm" target="_blank"><img src="images/twitter.png" style="margin-right:15px;" alt="Twitter">
-				</a>
-				<a href="https://br.linkedin.com/pub/thiago-behm/75/b75/38a" target="_blank"><img src="images/linkedin.png" style="margin-right:15px;" alt="Linkedin">
-				</a>
-				<p class="paragraph">@2015 Thiago Behm. Todos os direitos reservados.</p>
-			</div>
-		</footer>
-	</div>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
-	<script src="js/jquery.waypoints.min.js"></script>
-	<script src="js/script.min.js"></script>
-	<script src="js/jquery.mask.min.js"></script>
-</body>
-
-</html>
-=======
-<!DOCTYPE html>
-<html lang="pt-br">
-
-<head>
-	<meta charset="UTF-8">
-	<meta name="description" content="Site para mostrar o trabalho de Thiago Behm. Site com portfólio dos trabalhos e conhecimentos adquitidos">
-	<meta name="Keywords" content="site, desenvolvimento, web, Arroio dos Ratos, Thiago, Behm, Thiago Behm, portfólio, sistema">
-	<link rel="stylesheet" href="css/bootstrap-theme.css">
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/animate.min.css">
-	<link rel="stylesheet" href="css/style.min.css">
-	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
-	<title>Thiago Behm - Analista e desenvolvedor de sistemas</title>
-</head>
-
-<body>
-	<div class="header" id="home" style="background-position: 50%; max-height:700px;">
-		<div class="overlay">
-			<div class="text-center space">
-				<p class="title">Thiago Behm</p>
-				<p class="subtitle">Desenvolvedor Web</p>
-				<p class="description">24 anos, apaixonado por programação.</p>
-				<a href="#profile" class="btn btn-pink text-uppercase">Saiba mais</a>
-			</div>
-		</div>
-		<nav class="navbar navbar-default navbar-fixed-top" id="main-navbar" role="navigation">
-			<!-- Brand and toggle get grouped for better mobile display -->
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".responsive-menu">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-			</div>
-			<div class="collapse navbar-collapse responsive-menu">
-				<ul class="nav navbar-nav">
-					<li><a href="#home">Home</a>
-					</li>
-					<li><a href="#profile">Perfil</a>
-					</li>
-					<li><a href="#portfolio">Portfólio</a>
-					</li>
-					<li><a href="#servicos">Serviços</a>
-					</li>
-					<li><a href="#curriculo">Currículo</a>
-					</li>
-					<li><a href="#habilidades">Habilidades</a>
-					</li>
-					<li><a href="#contato">Contato</a>
-					</li>
-				</ul>
-			</div>
-		</nav>
-	</div>
-	<div class="container">
-		<section id="profile">
-			<div class="row">
-				<div class="col-md-8">
-					<h2 class="title text-uppercase">Oi, meu nome é Thiago Behm!</h2>
-					<p class="subTitle">Tenho 24 anos, nascido em São Jerônimo - RS. Eu adoro escutar música, programar e buscar novos conhecimentos.</p>
-					<p class="paragraph text-justify">
-						Atualmente trabalho na Dell Computadores. Passo boa parte do meu tempo livre programando e buscando novos conhecimentos.
-						<br> Formado em análise e desenvolviemento de sistemas 2015/01. Apaixonado por programação web e criação de layouts . Pensando em dar continuidade nos estudos para buscar conhecimento em diferentes áreas.
-					</p>
-					<br>
-					<p class="subTitle">Contato</p>
-					<div class="col-md-5">
-						<p class="paragraph">
-							Thiago Behm
-							<br> Arroio dos Ratos - RS
-							<br> (51) 9127-7389
-							<br>
-							<a href="mailto:thiagoluisbehm@gmail.com">thiagoluisbehm@gmail.com</a>
-							<br>
-						</p>						
-					</div>
-					<div class="col-md-3">
-						<a href="doc/thiagobehm.doc" class="btn btn-pink"> Download Currículo</a>
-					</div>
-				</div>
-				<div class="col-md-4 text-center">
-					<img src="images/foto-perfil.png" alt="Foto Thiago">
-				</div>
-			</div>
-			<!--row-->
-		</section>
-	</div>
-	<!--container-->
-	<!-- inicio portfolio -->
-	<div class="container-fluid">
-		<section id=portfolio class="gray portfolio">
-			<div class="text-center">
-				<p class="title">Meu Portfólio</p>
-				<p class="paragraph">Estou buscando expandir meu portfólio. Adoro novos projetos ousados onde possa usar minha criatividade.</p>
-				<hr>
-				<br>
-				<!-- site plasticos -->
-				<div class="col-md-4">
-					<div id="menuPortfólio" class="project">
-						<div class="link project-title">
-							<h2>Rede de Plásticos</h2>
-						</div>
-						<img src="images/redePlasticos.png" class="hover-image" width="95%" alt="rede plasticos">
-						<a href="http://www.redeplasticos.com.br" target="_blank"><i class="glyphicon glyphicon-link link icon-circle"></i></a>
-					</div>
-				</div>
-
-				<!-- english learners -->
-				<div class="col-md-4">
-					<div class="project">
-						<div class="link project-title">
-							<h2 class="">English Learners</h2>
-						</div>
-						<img src="images/englishLearners.png" class="hover-image" width="95%" alt="english learners">
-						<a href="#"><i class="glyphicon glyphicon-link link icon-circle"></i></a>
-					</div>
-				</div>
-				<!-- tag team-->
-				<div class="col-md-4 text-center">
-					<div class="project">
-						<div class="link project-title">
-							<h2 class="">Tag Team</h2>
-						</div>
-						<img src="images/tag.png" class="hover-image" width="95%" alt="Tag Team">
-						<a href="#"><i class="glyphicon glyphicon-link link icon-circle"></i></a>
-					</div>
-				</div>
-			</div>
-		</section>
-	</div>
-	<div class="container">
-		<section id="servicos">
-			<div class="row">
-				<div class="col-md-12">
-					<p class="title text-center">Serviços</p>
-					<p class="paragraph text-center">Eu amo o que faço e tenho muito orgulho. Não consigo fazer algo em que eu mesmo não goste. Me envolvo totalmente com o projeto até o final.</p>
-					<hr>
-				</div>
-				<div class="col-md-6 well" id="estrategia">
-					<i class="glyphicon glyphicon-knight icon-services"></i>
-					<p class="subTitle text-uppercase">1. Estratégia</p>
-					<p class="paragraph text-justify">Auxiliar na estratégia e elaboração do seu website. A comunicação é um fator importante para alinharmos as necessidades do cliente.</p>
-				</div>
-				<div class="col-md-6 well" id="marca">
-					<i class="glyphicon glyphicon-bullhorn icon-services"></i>
-					<p class="subTitle text-uppercase">2. Marca</p>
-					<p class="paragraph text-justify">Entender quais plataformas e o que o cliente pretende atingir com a criação de seu sistema. Posicionar bem o site nos buscadores.</p>
-				</div>
-				<div class="col-md-6 well" id="webdesign">
-					<i class="glyphicon glyphicon-list-alt icon-services"></i>
-					<p class="subTitle text-uppercase">3.Webdesign</p>
-					<p class="paragraph text-justify">Após um breafing com o cliente é hora de iniciar o desenvolvimento do layout.</p>
-				</div>
-				<div class="col-md-6 well" id="desenvolvimento">
-					<i class="glyphicon glyphicon-pencil icon-services"></i>
-					<p class="subTitle text-uppercase">4.Desenvolvimento</p>
-					<p class="paragraph text-justify">Com o layout pronto é hora do desenvolvimento e criação de toda a funcionalidade do site.</p>
-				</div>
-			</div>
-		</section>
-	</div>
-	<div class="container-fluid">
-		<!-- inicio curriculo -->
-		<section class="gray" id="curriculo">
-			<p class="title text-center">Currículo</p>
-			<p class="paragraph text-center">Um resumo sobre minha carreira e estudos, sou também uma pessoa autodidata.</p>
-			<hr>
-			<div class="container">
 				<div class="row">
-					<div class="col-md-2 col-sm-2">
-						<p class="subTitle">Educação</p>
-						<span class="resume btn-pink text-center" id="yearFormacao" style="margin-top:30px" id="yearFtec">2010 - 2015</span>
+					<div class="col-sm-2">
+						<span class="resume btn-pink text-center" id="yearFormacao" id="yearFtec">2010 - 2015</span>
 					</div>
-					<div class="col-md-1 col-sm-1">
+					<div class="col-sm-1">
 						<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
 					</div>
-					<div class="col-md-9 col-sm-9">
+					<div class="col-sm-9">
 						<div class="panel panel-pink" id="panelFormacao">
 							<div class="panel-heading">
 								<h3 class="panel-title subTitle text-uppercase">Graduação - Ftec</h3>
@@ -565,31 +235,13 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-2 col-sm-2">
-						<span class="resume btn-pink text-center" id="yearItil">2014</span>
-					</div>
-					<div class="col-md-1 col-sm-1">
-						<span class="resumeSquare pull-left"> <i class="glyphicon glyphicon-education"></i></span>
-					</div>
-					<div class="col-md-9 col-sm-9">
-						<div class="panel panel-pink" id="panelCertificacao">
-							<div class="panel-heading">
-								<h3 class="panel-title subTitle text-uppercase">Certificação Itil - Exin</h3>
-							</div>
-							<div class="panel-body">
-								Retirada certificação Itil Foundation em novembro de 2014.
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-2 col-sm-2">
+					<div class="col-sm-2">
 						<span class="resume btn-pink text-center" id="yearAndroid">2013</span>
 					</div>
-					<div class="col-md-1 col-sm-1">
-						<span class="resumeSquare pull-left"> <i class="glyphicon glyphicon-education"></i></span>
+					<div class="col-sm-1">
+						<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
 					</div>
-					<div class="col-md-9 col-sm-9">
+					<div class="col-sm-9">
 						<div class="panel panel-pink" id="panelAndroid">
 							<div class="panel-heading">
 								<h3 class="panel-title subTitle text-uppercase">Curso Android - Ftec</h3>
@@ -600,102 +252,6 @@
 						</div>
 					</div>
 				</div>
-				<div class="row" style="margin-top: 50px;">
-					<div class="col-md-2 col-sm-2">
-						<p class="subTitle">Experiência</p>
-						<span class="resume btn-pink text-center" style="margin-top:30px" id="yearDell">2013-Atual</span>
-					</div>
-					<div class="col-md-1 col-sm-1">
-						<span class="resumeSquare"> <i class="glyphicon glyphicon-wrench"></i></span>
-					</div>
-					<div class="col-md-9 col-sm-9">
-						<div class="panel panel-pink" id="panelDell">
-							<div class="panel-heading">
-								<h3 class="panel-title subTitle text-uppercase">Analista de Suporte - Dell</h3>
-							</div>
-							<div class="panel-body">
-								Análise referente aos impactos causados ao cliente devido a falha e propor a melhor e mais breve solução para o cliente.
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-	</div>
-	<div class="container">
-		<!-- inicio habilidades -->
-		<section id="habilidades">
-			<p class="title text-center">Habilidades</p>
-			<p class="paragraph text-center">Alguns de meus conhecimentos adquiridos e utilizados para a realização dos projetos.</p>
-			<hr>
-			<br>
-			<div class="col-md-6 col-sm-6">
-				<p class="subTitle text-uppercase">
-					HTML5 & CSS3
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
-						<span class="percent" style="left: 80%;" id="skills">85%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					JavaScript
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-						<span class="percent" style="left: 75%;" id="skills2">80%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					Desenvolvimento Web
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100" style="width: 92%;">
-						<span class="percent" style="left: 87%;" id="skills3">92%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					AngularJS
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-						<span class="percent" style="left: 85%;" id="skills4">90%</span>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6 col-sm-6">
-				<p class="subTitle text-uppercase">
-					jQuery
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-						<span class="percent" style="left: 70%;" id="skills5">75%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					PHP
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="79" aria-valuemin="0" aria-valuemax="100" style="width: 79%;">
-						<span class="percent" style="left: 74%;" id="skills6">79%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					MySQL
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 84%;">
-						<span class="percent" style="left: 79%;" id="skills7">84%</span>
-					</div>
-				</div>
-				<p class="subTitle text-uppercase">
-					Java EE
-				</p>
-				<div class="progress">
-					<div class="progress-bar progress-bar-gray" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-						<span class="percent" style="left: 75%;" id="skills8">80%</span>
-					</div>
-				</div>
 			</div>
 		</section>
 	</div>
@@ -703,9 +259,9 @@
 		<section class="gray" id="contato">
 			<div class="container">
 				<p class="title text-center">Contato</p>
-				<p class="paragraph text-center">Ficou com vontade de implementar seu projeto? Entre em contato...</p>				
+				<p class="paragraph text-center">Ficou com vontade de implementar seu projeto? Entre em contato...</p>
 				<a href="mailto:thiagoluisbehm@gmail.com"><img src="images/mail.png" alt="thiagoluisbehm@gmail.com" class="mail"></a><br>
-				<p class="paragraph text-center"><i class="glyphicon glyphicon-phone"></i> (51) 9127-7389</p>
+				<p class="paragraph text-center"><i class="glyphicon glyphicon-phone"></i> (51) 99127-7389</p>
 			</div>
 		</section>
 		<footer>
@@ -732,4 +288,3 @@
 </body>
 
 </html>
->>>>>>> origin/master
