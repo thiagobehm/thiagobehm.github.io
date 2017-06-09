@@ -263,6 +263,19 @@ footer .paragraph {
 /*responsive adjusts */
 
 @media (max-width: 700px) {
+  .header .title {
+    color: #ffffff;
+    display: block;
+    font: 400 30px "Myriad Pro";
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+  }
+  .header .subtitle {
+    color: #ffffff;
+    font: 500 50px "Myriad Pro";
+    margin: 0 auto;
+  }
   section.portfolio {
     padding-bottom: 80px;
   }
@@ -272,5 +285,8 @@ footer .paragraph {
   .resumeSquare {
     margin: 0 auto;
     margin-top: 30px;
+  }
+  .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    width: 60%;
   }
 }
