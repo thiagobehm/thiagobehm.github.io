@@ -290,3 +290,21 @@ footer .paragraph {
     width: 60%;
   }
 }
+
+@media (max-width: 550px) {
+  .header .title {
+    font: 300 20px "Myriad Pro";
+    display: block;
+    position: relative;
+  }
+  .header .subtitle {
+    font: 500 25px "Myriad Pro";
+    line-height: 35px;
+  }
+  .header .description {
+    font: 300 18px "Myriad Pro";
+  }
+  .space {
+    padding: 20% 5%;
+  }
+}
