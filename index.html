@@ -16,7 +16,7 @@
 	<title>Thiago Behm - Analista e desenvolvedor de sistemas</title>
 </head>
 
-<body data-spy="scroll" data-target=".navbar" data-offset="100" onload="skrollr.init()">
+<body data-spy="scroll" data-target=".navbar" data-offset="100">
 	<div class="header" id="home" style="background-position: 50%; max-height:200px;">
 		<div class="text-center space title-text col-sm-12">
 			<p class="title">Thiago Behm</p>
@@ -323,6 +323,14 @@
 		$('.navbar-collapse a').click(function() {
 			$(".navbar-collapse").collapse('hide');
 		});
+
+		$(document).ready(() => {
+				var s = skrollr.init();
+				if (s.isMobile()) {
+				    s.destroy();
+				}
+		});
+
 	</script>
 
 </body>
