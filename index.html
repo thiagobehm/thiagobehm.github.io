@@ -16,13 +16,13 @@
 	<title>Thiago Behm - Analista e desenvolvedor de sistemas</title>
 </head>
 
-<body data-spy="scroll" data-target=".navbar" data-offset="100">
-	<div class="header" id="home" style="background-position: 50%; max-height:700px;">
+<body data-spy="scroll" data-target=".navbar" data-offset="100" onload="skrollr.init()">
+	<div class="header" id="home" style="background-position: 50%; max-height:200px;">
 		<div class="text-center space title-text col-sm-12">
 			<p class="title">Thiago Behm</p>
 			<p class="subtitle">Desenvolvedor Web</p>
 			<p class="description">25 anos, apaixonado por programação.</p>
-			<a href="#profile" class="btn btn-pink text-uppercase">Saiba mais</a>
+			<a href="#about" class="btn btn-pink text-uppercase">Saiba mais</a>
 		</div>
 		<nav class="navbar navbar-default navbar-fixed-top" id="main-navbar" role="navigation">
 			<!-- Brand and toggle get grouped for better mobile display -->
@@ -47,6 +47,9 @@
 					</li>
 					<li>
 						<a href="#curriculo">Currículo</a>
+					</li>
+					<li>
+						<a href="#about">About</a>
 					</li>
 					<li>
 						<a href="#contato">Contato</a>
@@ -134,10 +137,10 @@
 	</div>
 	<!-- inicio portfolio -->
 	<div class="container-fluid">
-		<section id=portfolio class="gray portfolio">
+		<section id=portfolio class="gray portfolio" data-100="background-position: 250px -300px;" data-end="background-position:100px 50px;">
 			<div class="text-center">
 				<p class="title">Meu Portfólio</p>
-				<p class="paragraph">Estou buscando expandir meu portfólio. Adoro novos projetos ousados onde possa usar minha criatividade.</p>
+				<p class="paragraph">Seguem alguns exemplos dos trabalhos que tive oportunidade de criar.</p>
 				<hr>
 				<br>
 				<!-- site plasticos -->
@@ -146,19 +149,22 @@
 						<div class="link project-title">
 							<h2>Rede de Plásticos</h2>
 						</div>
-						<img src="images/redePlasticos.png" class="hover-image" width="95%" alt="rede plasticos">
-						<a href="http://www.redeplasticos.com.br" target="_blank"><i class="glyphicon glyphicon-link link icon-circle"></i></a>
+						<a href="http://www.redeplasticos.com.br" target="_blank">
+							<img src="images/redePlasticos.png" class="hover-image" width="95%" alt="rede plasticos">
+							<i class="glyphicon glyphicon-eye-open link icon-circle"></i>
+						</a>
 					</div>
 				</div>
-
 				<!-- english learners -->
 				<div class="col-md-4">
 					<div class="project">
 						<div class="link project-title">
 							<h2 class="">English Learners</h2>
 						</div>
-						<img src="images/englishLearners.png" class="hover-image" width="95%" alt="english learners">
-						<a href="#"><i class="glyphicon glyphicon-link link icon-circle"></i></a>
+						<a href="#" target="_blank">
+							<img src="images/englishLearners.png" class="hover-image" width="95%" alt="english learners">
+							<i class="glyphicon glyphicon-eye-open link icon-circle"></i>
+						</a>
 					</div>
 				</div>
 				<!-- tag team-->
@@ -167,11 +173,14 @@
 						<div class="link project-title">
 							<h2 class="">Tag Team</h2>
 						</div>
-						<img src="images/tag.png" class="hover-image" width="95%" alt="Tag Team">
-						<a href="#"><i class="glyphicon glyphicon-link link icon-circle"></i></a>
+						<a href="#" target="_blank">
+							<img src="images/tag.png" class="hover-image" width="95%" alt="Tag Team">
+							<i class="glyphicon glyphicon-eye-open link icon-circle"></i>
+						</a>
 					</div>
 				</div>
 			</div>
+
 		</section>
 	</div>
 	<!-- inicio curriculo -->
@@ -258,33 +267,57 @@
 		</section>
 	</div>
 	<div class="container-fluid">
-		<section class="gray" id="contato">
-			<div class="container">
-				<p class="title text-center">Contato</p>
-				<p class="paragraph text-center">Ficou com vontade de implementar seu projeto? Entre em contato...</p>
-				<a href="mailto:thiagoluisbehm@gmail.com"><img src="images/mail.png" alt="thiagoluisbehm@gmail.com" class="mail"></a><br>
-				<p class="paragraph text-center"><i class="glyphicon glyphicon-phone"></i> (51) 99127-7389</p>
+		<section class="gray" id="about">
+			<div class="row">
+				<div class="col-xs-12 col-md-6 about" data-100="background-position: 30px -300px;" data-end="background-position:0px 50px;">
+					<div class="responsive-container">
+						<div class="img-container">
+							<div class="centerer"></div>
+							<img src="images/about.png" alt="about" class="img" />
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-md-6 vertical-align about-description">
+					<div class="responsive-container">
+						<div class="about-text-description text-center">
+							<img src="images/profile.png" alt="thiago behm" class="img-circle about-profile-picture">
+							<p class="title-text title">Thiago Behm </p>
+							<p class="title-text lead">Desenvolvedor web, formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
+						</div>
+					</div>
+				</div>
 			</div>
-		</section>
-		<footer>
-			<a href="#" class="topo">
+	</div>
+	</div>
+	</section>
+	<section id="contato" class="gray">
+		<div class="container">
+			<p class="title text-center">Contato</p>
+			<p class="paragraph text-center">Ficou com vontade de implementar seu projeto? Entre em contato...</p>
+			<a href="mailto:thiagoluisbehm@gmail.com" class="social"><img src="images/mail.png" alt="email" width="150px" class="img-circle center-block"></a>
+			<div class="center-block">
+				<br>
+				<p class="btn-pink text-center" style="margin: 0 auto;"><i class="glyphicon glyphicon-phone"></i> (51) 99127-7389</p>
+			</div>
+		</div>
+	</section>
+	<footer>
+		<a href="#" class="social topo">
 				<img src="images/topo.png">
 			</a>
-			<div class="text-center">
-				<a href="http://www.facebook.com/thiago.behm" target="_blank"><img src="images/face.png" style="margin-right:15px;" alt="Facebook">
+		<div class="text-center">
+			<a class="social" href="http://twitter.com/thiagobehm" target="_blank"><img src="images/twitter.png" style="margin-right:15px;" alt="Twitter">
 				</a>
-				<a href="http://twitter.com/thiagobehm" target="_blank"><img src="images/twitter.png" style="margin-right:15px;" alt="Twitter">
+			<a class="social" href="https://br.linkedin.com/pub/thiago-behm/75/b75/38a" target="_blank"><img src="images/linkedin.png" style="margin-right:15px;" alt="Linkedin">
 				</a>
-				<a href="https://br.linkedin.com/pub/thiago-behm/75/b75/38a" target="_blank"><img src="images/linkedin.png" style="margin-right:15px;" alt="Linkedin">
-				</a>
-				<p class="paragraph">@2015 Thiago Behm. Todos os direitos reservados.</p>
-			</div>
-		</footer>
+			<p class="paragraph">@2015 Thiago Behm. Todos os direitos reservados.</p>
+		</div>
+	</footer>
 	</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
-	<script src="js/jquery.waypoints.min.js"></script>
+	<script src="js/skrollr.min.js"></script>
 	<script src="js/jquery.mask.min.js"></script>
 	<script>
 		$('.navbar-collapse a').click(function() {
