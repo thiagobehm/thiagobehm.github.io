@@ -61,7 +61,7 @@ a.btn-pink:hover {
 }
 
 p.btn-pink {
-  border-radius: 20px 0;
+  border-radius: 60px 0;
   max-width: 300px;
   margin: 0 auto;
   margin: 10px 0;
@@ -93,9 +93,20 @@ p.btn-pink {
 
 .paragraph {
   color: #a1a1a1;
-  font: 400 16px 'Myriad Pro';
-  line-height: 1.4em;
+  font-family: 'Slabo 27px', serif;
+  line-height: 2em;
+  font-size: 17px;
   letter-spacing: 1px;
+}
+
+.project-description {
+  padding: 40px;
+}
+
+.project-description .paragraph {
+  color: white;
+  font-weight: 400;
+  font-size: 20px;
 }
 
 .subTitle {
@@ -109,7 +120,7 @@ section {
 }
 
 section.portfolio {
-  padding-bottom: 350px;
+  padding-bottom: 500px;
   background-image: url(../images/pen.png);
   background-repeat: no-repeat;
   background-size: 600px;
@@ -155,8 +166,18 @@ section#about {
   border-radius: 20px;
 }
 
-section.gray {
+.gray {
   background-color: #171717;
+}
+
+p.like::before {
+  margin: 10px;
+  content: url(../images/like.png);
+}
+
+.like-group {
+  margin: 0 auto;
+  display: table;
 }
 
 
@@ -296,6 +317,28 @@ footer .paragraph {
 }
 
 
+/* Slick Dots */
+
+.slick-dotted.slick-slider {
+  bottom: 0px!important;
+}
+
+.slick-dots {
+  bottom: -65px !important;
+}
+
+.slick-dots li button:before {
+  font-size: 10px !important;
+  color: #ec5a84 !important;
+}
+
+.slick-dots li.slick-active button:before {
+  opacity: .75;
+  color: #c80a48 !important;
+  font-size: 20px !important;
+}
+
+
 /*  Menu adjustments */
 
 .center-menu {
@@ -306,7 +349,7 @@ footer .paragraph {
 
 /*responsive adjusts */
 
-@media (max-width: 700px) {
+@media (max-width: 768px) {
   .header .title {
     color: #ffffff;
     display: block;
@@ -319,9 +362,6 @@ footer .paragraph {
     color: #ffffff;
     font: 500 50px "Myriad Pro";
     margin: 0 auto;
-  }
-  section.portfolio {
-    padding-bottom: 80px;
   }
   section#habilidades {
     padding-bottom: 80px;
@@ -350,6 +390,9 @@ footer .paragraph {
   }
   .space {
     padding: 20% 5%;
+  }
+  .slick-dots {
+    bottom: -25px !important;
   }
 }
 

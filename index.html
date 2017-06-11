@@ -6,11 +6,15 @@
 	<meta name="description" content="Site para mostrar o trabalho de Thiago Behm. Site com portfólio dos trabalhos e conhecimentos adquitidos">
 	<meta name="Keywords" content="site, desenvolvimento, web, Arroio dos Ratos, Thiago, Behm, Thiago Behm, portfólio, sistema">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="X-UA-Compatible" content="IE=11">
 	<link rel="stylesheet" href="css/bootstrap-theme.css">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/animate.min.css">
 	<link rel="stylesheet" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
+	<!-- Add the slick-theme.css if you want default styling -->
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<title>Thiago Behm - Analista e desenvolvedor de sistemas</title>
@@ -62,7 +66,7 @@
 	<div class="container">
 		<section id="habilidades">
 			<p class="title text-center">Habilidades</p>
-			<p class="paragraph text-center">Alguns de meus conhecimentos adquiridos e utilizados para a realização dos projetos.</p>
+			<p class="paragraph text-center">Algumas das tecnologias em que possuo conhecimento.</p>
 			<hr>
 			<br>
 			<div class="col-sm-6" id="skillCol">
@@ -136,165 +140,201 @@
 		</section>
 	</div>
 	<!-- inicio portfolio -->
-	<div class="container-fluid">
-		<section id=portfolio class="gray portfolio" data-100="background-position: 250px -300px;" data-end="background-position:100px 50px;">
+	<div class="container-fluid gray">
+		<section id=portfolio class="portfolio" data-100="background-position: 250px -300px;" data-end="background-position:100px 50px;">
 			<div class="text-center">
 				<p class="title">Meu Portfólio</p>
-				<p class="paragraph">Seguem alguns exemplos dos trabalhos que tive oportunidade de criar.</p>
+				<p class="paragraph">Seguem alguns exemplos dos trabalhos que tive oportunidade de desenvolver.</p>
 				<hr>
 				<br>
-				<!-- site plasticos -->
-				<div class="col-md-4">
-					<div id="menuPortfólio" class="project">
-						<div class="link project-title">
-							<h2>Rede de Plásticos</h2>
+				<div id="rowSlider" style="padding: 3%;">
+					<div class="col-xs-12">
+						<div class="slide">
+							<div class="slick-slide" data-slick-index="0">
+								<div class="col-xs-12 col-lg-6">
+									<h3 class="title text-center">Gerenciador Objetos</h3>
+									<div class="project-description">
+										<p class="paragraph">Sistema para gerenciamento de Objetos, com diferentes níveis de acesso, relatórios...</p>
+										<p class="paragraph">Algumas das Tecnologias utilizadas no projeto: PHP, Slim Framework, Booststrap, AngularJS, MySQL.</p>
+									</div>
+								</div>
+								<div class="col-xs-12 col-lg-6">
+									<img src="images/fileManager.jpg" alt="Gerenciador Objetos" width="100%" class="img-responsive">
+								</div>
+							</div>
+							<div class="slick-slide" data-slick-index="1">
+								<div class="col-xs-12 col-lg-6">
+									<img src="images/englishLearners.jpg" alt="English Learners" width="100%" class="img-responsive">
+								</div>
+								<div class="col-xs-12 col-lg-6">
+									<h3 class="title text-center">English Learners</h3>
+									<div class="project-description">
+										<p class="paragraph">Uma rede social onde o foco é a prática de inglês. Utiliza recursos de geolocalização (maps) para encontrar pessoas em suas proximidades.</p>
+										<p class="paragraph">Algumas das Tecnologias utilizadas no projeto: Java EE, Google Maps API V3, AngularJS, Oracle 11G.</p>
+									</div>
+								</div>
+							</div>
+							<div class="slick-slide" data-slick-index="3">
+								<div class="col-xs-12 col-lg-6">
+									<h3 class="title text-center">Logging Tool</h3>
+									<div class="project-description">
+										<p class="paragraph">Ferramenta de logs utilizada pelo time de suporte Dell Brasil e Panamá para registrar todos os atendimentos</p>
+										<p class="paragraph">Algumas das Tecnologias utilizadas no projeto: Booststrap, AngularJS, ClipboardJS...</p>
+									</div>
+								</div>
+								<div class="col-xs-12 col-lg-6">
+									<img src="images/loggingTool.jpg" alt="Logging Tool" width="100%" class="img-responsive">
+								</div>
+							</div>
+							<div class="slick-slide" data-slick-index="4">
+								<div class="col-xs-12 col-lg-6">
+									<img src="images/emailTool.jpg" alt="Email Tool" width="100%" class="img-responsive">
+								</div>
+								<div class="col-xs-12 col-lg-6">
+									<h3 class="title text-center">Email Tool</h3>
+									<div class="project-description">
+										<p class="paragraph">Ferramenta dedicada ao time de suporte que atende o canal de email.</p>
+										<p class="paragraph">Algumas das Tecnologias utilizadas no projeto: HTML5, Bootstrap, AngularJS, TinyMCE...</p>
+									</div>
+								</div>
+							</div>
+							<div class="slick-slide" data-slick-index="3">
+								<div class="col-xs-12 col-lg-6">
+									<h3 class="title text-center">5 Good Lines</h3>
+									<div class="project-description">
+										<p class="paragraph">Os Analistam geram as instruções para o técnico de campo através da ferramenta.</p>
+										<p class="paragraph">Algumas das Tecnologias utilizadas no projeto: Booststrap, AngularJS, jQuery...</p>
+									</div>
+								</div>
+								<div class="col-xs-12 col-lg-6">
+									<img src="images/5good.jpg" alt="Five Good Lines" width="100%" class="img-responsive">
+								</div>
+							</div>
 						</div>
-						<a href="http://www.redeplasticos.com.br" target="_blank">
-							<img src="images/redePlasticos.png" class="hover-image" width="95%" alt="rede plasticos">
-							<i class="glyphicon glyphicon-eye-open link icon-circle"></i>
-						</a>
 					</div>
 				</div>
-				<!-- english learners -->
-				<div class="col-md-4">
-					<div class="project">
-						<div class="link project-title">
-							<h2 class="">English Learners</h2>
-						</div>
-						<a href="#" target="_blank">
-							<img src="images/englishLearners.png" class="hover-image" width="95%" alt="english learners">
-							<i class="glyphicon glyphicon-eye-open link icon-circle"></i>
-						</a>
-					</div>
-				</div>
-				<!-- tag team-->
-				<div class="col-md-4 text-center">
-					<div class="project">
-						<div class="link project-title">
-							<h2 class="">Tag Team</h2>
-						</div>
-						<a href="#" target="_blank">
-							<img src="images/tag.png" class="hover-image" width="95%" alt="Tag Team">
-							<i class="glyphicon glyphicon-eye-open link icon-circle"></i>
-						</a>
-					</div>
-				</div>
-			</div>
 
 		</section>
-	</div>
-	<!-- inicio curriculo -->
-	<div class="container-fluid">
-		<section id="curriculo">
-			<p class="title text-center">Currículo</p>
-			<p class="paragraph text-center">Um resumo sobre minha carreira e estudos, sou também uma pessoa autodidata.</p>
-			<hr>
-			<div class="container">
+		</div>
+		<!-- inicio curriculo -->
+		<div class="container-fluid">
+			<section id="curriculo">
+				<p class="title text-center">Currículo</p>
+				<p class="paragraph text-center">Um resumo sobre os principais cursos na área.</p>
+				<hr>
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-2">
+							<p class="subTitle">Educação</p>
+							<span class="resume btn-pink text-center" style="margin-top:30px" id="yearOctalysis">2016</span>
+						</div>
+						<div class="col-sm-1">
+							<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
+						</div>
+						<div class="col-sm-9">
+							<div class="panel panel-pink" id="uxPanel">
+								<div class="panel-heading">
+									<h3 class="panel-title subTitle text-uppercase">User Experience - Udemy</h3>
+								</div>
+								<div class="panel-body">
+									UX and Web Desing Master.
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-2">
+							<span class="resume btn-pink text-center" id="uxYear">2016</span>
+						</div>
+						<div class="col-sm-1">
+							<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
+						</div>
+						<div class="col-sm-9">
+							<div class="panel panel-pink" id="panelOctalysis">
+								<div class="panel-heading">
+									<h3 class="panel-title subTitle text-uppercase">The Octalysis Framework - Udemy</h3>
+								</div>
+								<div class="panel-body">
+									Gamification & Behavioral Design: The Octalysis Framework.
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-2">
+							<span class="resume btn-pink text-center" id="yearFormacao" id="yearFtec">2010 - 2015</span>
+						</div>
+						<div class="col-sm-1">
+							<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
+						</div>
+						<div class="col-sm-9">
+							<div class="panel panel-pink" id="panelFormacao">
+								<div class="panel-heading">
+									<h3 class="panel-title subTitle text-uppercase">Graduação - Ftec</h3>
+								</div>
+								<div class="panel-body">
+									Formação em Ánalise e desenvolvimento de Sistemas.
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-2">
+							<span class="resume btn-pink text-center" id="yearAndroid">2013</span>
+						</div>
+						<div class="col-sm-1">
+							<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
+						</div>
+						<div class="col-sm-9">
+							<div class="panel panel-pink" id="panelAndroid">
+								<div class="panel-heading">
+									<h3 class="panel-title subTitle text-uppercase">Curso Android - Ftec</h3>
+								</div>
+								<div class="panel-body">
+									Curso básico de desenvolvimento Android.
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+		<div class="container-fluid">
+			<section class="gray" id="about">
 				<div class="row">
-					<div class="col-sm-2">
-						<p class="subTitle">Educação</p>
-						<span class="resume btn-pink text-center" style="margin-top:30px" id="yearOctalysis">2016</span>
-					</div>
-					<div class="col-sm-1">
-						<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
-					</div>
-					<div class="col-sm-9">
-						<div class="panel panel-pink" id="uxPanel">
-							<div class="panel-heading">
-								<h3 class="panel-title subTitle text-uppercase">UX - Udemy</h3>
+					<div class="col-xs-12 col-md-6 about" data-100="background-position: 30px -300px;" data-end="background-position:0px 50px;">
+						<div class="responsive-container">
+							<div class="img-container">
+								<div class="centerer"></div>
+								<img src="images/about.png" alt="about" class="img" />
 							</div>
-							<div class="panel-body">
-								UX and Web Desing Master
+						</div>
+					</div>
+					<div class="col-xs-12 col-md-6 vertical-align about-description">
+						<div class="responsive-container">
+							<div class="about-text-description">
+								<div class="text-center">
+									<img src="images/profile.jpg" alt="thiago behm" class="img-circle about-profile-picture">
+									<p class="title-text title">Thiago Behm </p>
+									<p class="title-text lead">Desenvolvedor web, formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
+								</div>
+								<div class="like-group">
+									<p class="title-text lead like">Amigos</p>
+									<p class="title-text lead like">Viajar </p>
+									<p class="title-text lead like">Futebol</p>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-sm-2">
-						<span class="resume btn-pink text-center" id="uxYear">2016</span>
-					</div>
-					<div class="col-sm-1">
-						<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
-					</div>
-					<div class="col-sm-9">
-						<div class="panel panel-pink" id="panelOctalysis">
-							<div class="panel-heading">
-								<h3 class="panel-title subTitle text-uppercase">The Octalysis Framework - Udemy</h3>
-							</div>
-							<div class="panel-body">
-								Gamification & Behavioral Design: The Octalysis Framework
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-sm-2">
-						<span class="resume btn-pink text-center" id="yearFormacao" id="yearFtec">2010 - 2015</span>
-					</div>
-					<div class="col-sm-1">
-						<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
-					</div>
-					<div class="col-sm-9">
-						<div class="panel panel-pink" id="panelFormacao">
-							<div class="panel-heading">
-								<h3 class="panel-title subTitle text-uppercase">Graduação - Ftec</h3>
-							</div>
-							<div class="panel-body">
-								Formação em Ánalise e desenvolvimento de Sistemas
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-sm-2">
-						<span class="resume btn-pink text-center" id="yearAndroid">2013</span>
-					</div>
-					<div class="col-sm-1">
-						<span class="resumeSquare"> <i class="glyphicon glyphicon-education"></i></span>
-					</div>
-					<div class="col-sm-9">
-						<div class="panel panel-pink" id="panelAndroid">
-							<div class="panel-heading">
-								<h3 class="panel-title subTitle text-uppercase">Curso Android - Ftec</h3>
-							</div>
-							<div class="panel-body">
-								Curso básico de desenvolvimento Android.
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-	</div>
-	<div class="container-fluid">
-		<section class="gray" id="about">
-			<div class="row">
-				<div class="col-xs-12 col-md-6 about" data-100="background-position: 30px -300px;" data-end="background-position:0px 50px;">
-					<div class="responsive-container">
-						<div class="img-container">
-							<div class="centerer"></div>
-							<img src="images/about.png" alt="about" class="img" />
-						</div>
-					</div>
-				</div>
-				<div class="col-xs-12 col-md-6 vertical-align about-description">
-					<div class="responsive-container">
-						<div class="about-text-description text-center">
-							<img src="images/profile.png" alt="thiago behm" class="img-circle about-profile-picture">
-							<p class="title-text title">Thiago Behm </p>
-							<p class="title-text lead">Desenvolvedor web, formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-	</div>
+		</div>
 	</div>
 	</section>
 	<section id="contato" class="gray">
 		<div class="container">
 			<p class="title text-center">Contato</p>
 			<p class="paragraph text-center">Ficou com vontade de implementar seu projeto? Entre em contato...</p>
-			<a href="mailto:thiagoluisbehm@gmail.com" class="social"><img src="images/mail.png" alt="email" width="150px" class="img-circle center-block"></a>
+			<a href="mailto:thiagoluisbehm@gmail.com" class="social"><img src="images/mail.jpg" alt="email" width="150px" class="img-circle center-block"></a>
 			<div class="center-block">
 				<br>
 				<p class="btn-pink text-center" style="margin: 0 auto;"><i class="glyphicon glyphicon-phone"></i> (51) 99127-7389</p>
@@ -303,20 +343,21 @@
 	</section>
 	<footer>
 		<a href="#" class="social topo">
-				<img src="images/topo.png">
+				<img src="images/topo.jpg">
 			</a>
 		<div class="text-center">
-			<a class="social" href="http://twitter.com/thiagobehm" target="_blank"><img src="images/twitter.png" style="margin-right:15px;" alt="Twitter">
+			<a class="social" href="http://twitter.com/thiagobehm" target="_blank"><img src="images/twitter.jpg" style="margin-right:15px;" alt="Twitter">
 				</a>
-			<a class="social" href="https://br.linkedin.com/pub/thiago-behm/75/b75/38a" target="_blank"><img src="images/linkedin.png" style="margin-right:15px;" alt="Linkedin">
+			<a class="social" href="https://br.linkedin.com/pub/thiago-behm/75/b75/38a" target="_blank"><img src="images/linkedin.jpg" style="margin-right:15px;" alt="Linkedin">
 				</a>
-			<p class="paragraph">@2015 Thiago Behm. Todos os direitos reservados.</p>
+			<p class="paragraph">@2017 Thiago Behm. Todos os direitos reservados.</p>
 		</div>
 	</footer>
 	</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
 	<script src="js/skrollr.min.js"></script>
 	<script src="js/jquery.mask.min.js"></script>
 	<script>
@@ -324,13 +365,19 @@
 			$(".navbar-collapse").collapse('hide');
 		});
 
-		$(document).ready(() => {
-				var s = skrollr.init();
-				if (s.isMobile()) {
-				    s.destroy();
-				}
-		});
+		$(document).ready(function() {
+			var s = skrollr.init();
+			if (s.isMobile()) {
+				s.destroy();
+			}
 
+			$('.slide').slick({
+				dots: true,
+				infinite: true,
+				autoplay: true,
+				autoplaySpeed: 10000
+			});
+		});
 	</script>
 
 </body>
