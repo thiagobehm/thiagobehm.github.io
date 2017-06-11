@@ -323,10 +323,6 @@ footer .paragraph {
   bottom: 0px!important;
 }
 
-.slick-dots {
-  bottom: -65px !important;
-}
-
 .slick-dots li button:before {
   font-size: 10px !important;
   color: #ec5a84 !important;
