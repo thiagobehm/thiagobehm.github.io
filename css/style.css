@@ -319,6 +319,10 @@ footer .paragraph {
 
 /* Slick Dots */
 
+.slick-dots {
+  /*margin: 10px 0 !important;*/
+}
+
 .slick-dotted.slick-slider {
   bottom: 0px!important;
 }
@@ -345,8 +349,15 @@ footer .paragraph {
 .portfolio-box {
   margin: 0;
   padding: 10px;
-  background-color: #c80a48;
-  height: 415px;
+  border: 1px solid #efefef;
+  border: 1px solid rgba(244, 244, 244, 0.1);
+  margin-bottom: 30px;
+}
+
+.slick-slide img {
+  max-width: 80%;
+  margin: 0 auto;
+  vertical-align: middle;
 }
 
 
