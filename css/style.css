@@ -320,7 +320,7 @@ footer .paragraph {
 /* Slick Dots */
 
 .slick-dots {
-  /*margin: 10px 0 !important;*/
+  bottom: -35px;
 }
 
 .slick-dotted.slick-slider {
@@ -355,7 +355,7 @@ footer .paragraph {
 }
 
 .slick-slide img {
-  max-width: 80%;
+  max-width: 70%;
   margin: 0 auto;
   vertical-align: middle;
 }
