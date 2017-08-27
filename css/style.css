@@ -188,16 +188,15 @@ p.like::before {
   z-index: 100;
 }
 
-.link {
-  font-size: 20px;
-  background: none;
-  color: white;
-  position: absolute;
-  opacity: 0;
+.link a {
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  color: #C80A48;
 }
 
-.project:hover .link {
-  opacity: 1;
+.link a:visited {
+  color: #9e0938;
 }
 
 .icon-circle {

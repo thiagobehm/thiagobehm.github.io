@@ -1,0 +1,2013 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bs3navres",
+				"bs3-navbar:responsive\tbs3-navbar-responsive"
+			],
+			[
+				"idcon",
+				"idcontatos"
+			],
+			[
+				"bs3-tabe",
+				"bs3-table:striped\tbs3-table-striped"
+			],
+			[
+				"listar",
+				"listarContato"
+			],
+			[
+				"ng-c",
+				"ng-click\tAngularJS"
+			],
+			[
+				"ngi",
+				"ng-init\tAngularJS"
+			],
+			[
+				"que",
+				"queueSaved"
+			],
+			[
+				"Que",
+				"queue"
+			],
+			[
+				"ng-op",
+				"ng-options\tAngularJS"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"$locati",
+				"$location\tAngularJS"
+			],
+			[
+				"responsa",
+				"responsavel"
+			],
+			[
+				"cadas",
+				"cadastrarResponsavel.php"
+			],
+			[
+				"respos",
+				"responsavel"
+			],
+			[
+				"respo",
+				"responsaveis"
+			],
+			[
+				"respons",
+				"responsavel"
+			],
+			[
+				"responsave",
+				"responsaveis"
+			],
+			[
+				"bs3-table",
+				"bs3-panel:table\tbs3-panel-table"
+			],
+			[
+				"ima",
+				"imagemDirective.js"
+			],
+			[
+				"con",
+				"imagemController.js"
+			],
+			[
+				"a",
+				"angular-file-upload.min.js"
+			],
+			[
+				"c",
+				"clear"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"ng-cl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"me",
+				"menu_user.php"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysqlnum",
+				"mysql_num_rows"
+			],
+			[
+				"bs3-a",
+				"bs3-alert:warning\tbs3-alert-warning"
+			],
+			[
+				"bs3-ico",
+				"bs3-icon:glyphicon\tbs3-icon-glyphicon"
+			],
+			[
+				"Sess",
+				"session_destroy"
+			],
+			[
+				"bs3-na",
+				"bs3-navbar:responsive\tbs3-navbar-responsive"
+			],
+			[
+				"bs3-aler",
+				"bs3-alert:warning\tbs3-alert-warning"
+			],
+			[
+				"bs3-gly",
+				"bs3-icon:glyphicon\tbs3-icon-glyphicon"
+			],
+			[
+				"bs3-navri",
+				"bs3-navbar:responsive\tbs3-navbar-responsive"
+			],
+			[
+				"bs3-nav",
+				"bs3-navbar:basic\tbs3-navbar-basic"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"Cl",
+				"ClassA"
+			],
+			[
+				"m",
+				"m\tmethod"
+			],
+			[
+				"ng-key",
+				"ng-keyup\tAngularJS"
+			],
+			[
+				"ng-re",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"usua",
+				"usuario"
+			],
+			[
+				"mesage",
+				"mensagem"
+			],
+			[
+				"mensage",
+				"mensagens"
+			],
+			[
+				"ng-bin",
+				"ng-bind-html\tAngularJS"
+			],
+			[
+				"$loca",
+				"$location\tAngularJS"
+			],
+			[
+				"upload",
+				"uploader"
+			],
+			[
+				"$locatio",
+				"$locationProvider\tAngularJS"
+			],
+			[
+				"$sc",
+				"$scope\tAngularJS"
+			],
+			[
+				"for",
+				"FOREIGN"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"contro",
+				"controller12.js"
+			],
+			[
+				"AN",
+				"angular-route.min.js"
+			],
+			[
+				"rout",
+				"$routeParams\tAngularJS"
+			],
+			[
+				"ngv",
+				"ng-view\tAngularJS"
+			],
+			[
+				"$rou",
+				"$routeParams\tAngularJS"
+			],
+			[
+				"an",
+				"angular-route.min.js.map"
+			],
+			[
+				"angu",
+				"angular-route.min.js"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"contr",
+				"controller\tAngularJS"
+			],
+			[
+				"fac",
+				"factory\tAngular.js"
+			],
+			[
+				"gly",
+				"glyphicons-pen\tglyphicons-pen"
+			],
+			[
+				"gl",
+				"glyphicons-ok\tglyphicons-ok"
+			],
+			[
+				"route",
+				"$route\tAngularJS"
+			],
+			[
+				"angul",
+				"angular.bootstrap"
+			],
+			[
+				"ng",
+				"ng-click\tAngularJS"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bg",
+				"background-repeat"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"bs3-al",
+				"bs3-alert:success\tbs3-alert-success"
+			],
+			[
+				"ro",
+				"$route\tAngularJS"
+			],
+			[
+				"bs3aler",
+				"bs3-alert:danger\tbs3-alert-danger"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"co",
+				"connect.php"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"inc",
+				"includes/"
+			],
+			[
+				"ng-d",
+				"ng-disabled\tAngularJS"
+			],
+			[
+				"ngd",
+				"ng-disabled\tAngularJS"
+			],
+			[
+				"s",
+				"sticky.min.js"
+			],
+			[
+				"fw",
+				"font-weight"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"$route",
+				"$routeProvider\tAngularJS"
+			],
+			[
+				"ngcl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"ngre",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"ngc",
+				"ng-controller\tAngularJS"
+			],
+			[
+				"modu",
+				"angular.module"
+			],
+			[
+				"bs3-tabs",
+				"bs3-list-group:badges\tbs3-list-group-badges"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bgs",
+				"bgsz-cv\tbackground-size: cover;"
+			],
+			[
+				"animatecss",
+				"animatecss-zoomIn\tzoomIn - Zooming Entrances"
+			],
+			[
+				"animatecss-",
+				"animatecss-shake\tshake - Attention Seekers"
+			],
+			[
+				"anim",
+				"anim-\tanimation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"animatecss-fa",
+				"animatecss-fadeInLeft\tfadeInLeft - Fading Entrances"
+			],
+			[
+				"ngs",
+				"ng-show\tAngularJS"
+			],
+			[
+				"ng-in",
+				"ng-init\tAngularJS"
+			],
+			[
+				"Con",
+				"Controls/"
+			],
+			[
+				"bootstrap",
+				"bootstrap.min.js"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"db",
+				"dbcon"
+			],
+			[
+				"incl",
+				"Includes/"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"mx",
+				"max-width"
+			],
+			[
+				"ng-s",
+				"ng-show\tAngularJS"
+			],
+			[
+				"cat",
+				"cat_tendas.php"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 16528,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 6746,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.min.css",
+			"settings":
+			{
+				"buffer_size": 5067,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 500.0,
+		"last_filter": "min",
+		"selected_items":
+		[
+			[
+				"min",
+				"Minify::Default File Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"REI",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"rie",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reiden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"seth",
+				"Set Syntax: HTML"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"setjava",
+				"Set Syntax: Java"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"glyp",
+				"Snippet: bs3-icon-glyphicon"
+			],
+			[
+				"gly",
+				"Snippet: bs3-icon-glyphicon"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"e",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"index",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"innde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sethtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bs3-html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"bs3-moda",
+				"Snippet: bs3-modal"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bs3-nav",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"nav",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"reidne",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"CSS Completions: Prune Cache"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"try",
+				"Snippet: Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"reidn",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"navbar-de",
+				"Snippet: bs3-navbar-fixed-bottom"
+			],
+			[
+				"navfi",
+				"Snippet: bs3-navbar-fixed-top"
+			],
+			[
+				"bs3-btnd",
+				"Snippet: bs3-button-danger"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"bs3bt",
+				"Snippet: bs3-button-danger"
+			],
+			[
+				"bs3-htm",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git cm",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"bs",
+				"Snippet: bs3-sm-button-danger"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 658.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"git status",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/thiagobehm/thiagobehm.github.io",
+		"/C/xampp/htdocs/thiagobehm/thiagobehm.github.io/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 3/Packages/Minify/Minify.sublime-settings",
+		"/C/xampp/htdocs/thiagobehm/thiagobehm.github.io/.ignore",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/objetoController.js",
+		"/C/xampp/htdocs/phonegap/www/js/index.js",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/404.php",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/search.php",
+		"/C/xampp/htdocs/LoggingTool/partsOnly.html",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/content-search.php",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/content-benefits.php",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/functions.php",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/js/navigation.js",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/archive.php",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/comments.php",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/single.php",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/content.php",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/index.php",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/node-tests/server/server.test.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/node-tests/server/server.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/weather-app/app-promise.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/note-node/playground/json.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/note-node/Examples/greeting.txt",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/note-node/Examples/notesExample(old)",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/note-node/Examples/appExample(old)",
+		"/C/xampp/htdocs/LoggingTool/log.html",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/C - Final Static Website/B2W - Static/index.html",
+		"/C/xampp/htdocs/GerenciamentoObjetos/api/Db.class.php",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/C - Final Static Website/B2W - Static/blog.html",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/note-node/app.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/note-node/notes.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/node-tests/utils/utils.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/hello-world/app.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/node-tests/utils/utils.test.js",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/C - Final Static Website/B2W - Static/resources.html",
+		"/C/Users/Thiago/Desktop/WordAssets/B2W Final Course Files/C - Final Static Website/B2W - Static/assets/js/main.js",
+		"/C/xampp/htdocs/wordpress/wp-config.php",
+		"/C/Users/Thiago/IdeaProjects/Projeto Final/src/main/java/br/com/socialEnglish/Controller/ControllerPassword.java",
+		"/C/Users/Thiago/IdeaProjects/Projeto Final/src/main/java/br/com/socialEnglish/Controller/RecoveryPass.java",
+		"/C/Users/Thiago/Desktop/notes.js",
+		"/C/Users/Thiago/IdeaProjects/Projeto Final/src/main/java/br/com/socialEnglish/Model/Password.java",
+		"/C/Users/Thiago/Desktop/JavaOCA Codes/HelloWorld.java",
+		"/C/xampp/htdocs/GerenciamentoObjetos/index.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/imagemController.js",
+		"/C/xampp/htdocs/thiagobehm/thiagobehm.github.io/index.html",
+		"/C/xampp/htdocs/thiagobehm/thiagobehm.github.io/js/script.min.js",
+		"/C/xampp/htdocs/thiagobehm/thiagobehm.github.io/js/script.js",
+		"/C/xampp/htdocs/thiagobehm/thiagobehm.github.io/js/bootstrap.js",
+		"/C/Users/Thiago/IdeaProjects/jdbcTemplateSpring/src/main/java/br/thiago/jdbc/coon/JDBCConnection.java",
+		"/C/Users/Thiago/IdeaProjects/jdbcTemplateSpring/src/main/java/br/thiago/jdbc/coon/TestServlet.java",
+		"/C/Users/Thiago/IdeaProjects/jdbcTemplateSpring/src/main/java/br/thiago/jdbc/entity/Pessoa.java",
+		"/C/xampp/htdocs/GerenciamentoObjetos/api/index.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/cadastrarObjeto.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/objeto.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/gerenciarResponsaveis.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/includes/menu_user.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/linksUteis.php",
+		"/C/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.2.5/bin/idea64.exe.vmoptions",
+		"/C/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.2.5/bin/idea.exe.vmoptions",
+		"/C/xampp/htdocs/GerenciamentoObjetos/includes/menu_admin.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/includes/modalCadastrarContato.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/contatosController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/tipoController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/tipoObjeto.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/responsavelController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/cadastrarResponsavel.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/includes/modalUtilizacao.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/css/style.css",
+		"/C/xampp/htdocs/GerenciamentoObjetos/css/bootstrap.css",
+		"/C/xampp/htdocs/GerenciamentoObjetos/gerenciarOrganizadoras.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/Relatorios/relatorioResponsavel.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/Relatorios/relatorioCategoria.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/Relatorios/completo.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/relatorio.php",
+		"/C/xampp/htdocs/thiagobehm/index.html",
+		"/C/xampp/htdocs/MySite/index.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/relatorioController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/includes/include_scripts.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/angularApp.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/buscaController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/includes/header.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/organizadoraController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/modalObjetos.txt",
+		"/C/Users/Thiago/Desktop/imagemController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/cadastrarOrganizadora.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/EditarObjeto.php",
+		"/C/Users/Thiago/Dropbox/Ftec/astah_professional_license.xml",
+		"/C/xampp/htdocs/projetopraticoAngularJS/api/index.php",
+		"/C/xampp/htdocs/projetopraticoAngularJS/js/painelInicialController.js",
+		"/C/xampp/htdocs/projetopraticoAngularJS/js/gerenciarImagensController.js",
+		"/C/xampp/htdocs/projetopraticoAngularJS/painel/gerenciarImagens.php",
+		"/C/Users/Thiago/Desktop/JavaOCA Codes/ImportExample.java",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/jquery.gritter.min.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/imagemDirective.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/angular-file-upload.min.js",
+		"/C/Users/Thiago/Desktop/JavaOCA Codes/packageA/ClassA.java",
+		"/C/Users/Thiago/Desktop/lightbox.js",
+		"/C/xampp/htdocs/projetopraticoAngularJS/verNoticia.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/gerenciarUsuarios.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/login.php",
+		"/C/xampp/htdocs/projetopraticoAngularJS/js/verNoticiaController.js",
+		"/C/xampp/htdocs/projetopraticoAngularJS/painel/painel-inicial.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/teste.html",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/loginController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/usuarioController.js",
+		"/C/xampp/htdocs/CursoAngular(DevMedia)/aula18.html",
+		"/C/xampp/htdocs/CursoAngular(DevMedia)/js/controller18.js",
+		"/C/xampp/htdocs/fileUploadAngular/examples/image-preview/controllers.js",
+		"/C/xampp/htdocs/fileUploadAngular/examples/image-preview/index.html",
+		"/C/xampp/htdocs/CursoAngular(DevMedia)/service/upload.php",
+		"/C/xampp/htdocs/fileUploadAngular/examples/image-preview/upload.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/api/upload",
+		"/C/xampp/htdocs/CursoAngular(DevMedia)/js/controller21.js",
+		"/C/xampp/htdocs/CursoAngular(DevMedia)/aula21.html",
+		"/C/xampp/htdocs/Logging Tool/index.html",
+		"/C/xampp/htdocs/Logging Tool/css/bootstrap.css",
+		"/C/xampp/htdocs/Logging Tool/js/angularScript.js",
+		"/C/xampp/htdocs/Logging Tool/css/bootstrap-theme.css",
+		"/C/xampp/htdocs/projetopraticoAngularJS/servidorchat/app.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/cadastroContatoController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/enderecoController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/cadastrarContato.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/gerenciarUsuario.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/cadastrarUsuario.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/includes/validaMenu.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/includes/menu.php",
+		"/C/xampp/htdocs/Logging Tool/js/script.js",
+		"/C/xampp/htdocs/projetopraticoAngularJS/js/inicialController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/css/jquery.gritter.css",
+		"/C/xampp/htdocs/GerenciamentoObjetos/api/test.php"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"link",
+			"portfoli",
+			"port",
+			"Portfólio",
+			"_paging_nav",
+			"bootstrap2wordpress_paging_nav",
+			"bod",
+			"requiredFields",
+			"bounceInUp",
+			"servicos",
+			"profilePoint",
+			"animate",
+			"getObjetoFrontEnd",
+			"uti",
+			"ano la",
+			"queueSaved",
+			"totalQueue",
+			"queueSaved",
+			"idtipo",
+			"UPDATE",
+			"SITE",
+			"site",
+			"TELEFONE",
+			"telefone",
+			"NOME",
+			"nome",
+			"SITE",
+			"site",
+			"alterarContato",
+			"idcontatos",
+			"idtipo",
+			"cadastroResp",
+			"responsavel",
+			"idresponsavel",
+			"4",
+			"Contato",
+			"contato",
+			"modalUtilizacaoObjetos",
+			"vikin",
+			"listarContato",
+			"categorias",
+			"idtipo",
+			"idContato",
+			"idtipo",
+			"categorias",
+			"$consulta->bindParam(':CATEGORIA', $nomeCategoria);",
+			"telefone",
+			"nome",
+			"nomeCategoria",
+			"contatosControladora",
+			"organizadoraController",
+			"IDORGANIZADORA",
+			"poi",
+			"waypoints",
+			"skrollr",
+			"rowCount",
+			"relatorio",
+			"rela",
+			"row",
+			"IDOBJETO",
+			"idObjeto",
+			"_new",
+			"new",
+			"busca",
+			"DATE_FORMAT",
+			"ATE_FORMAT",
+			"relato",
+			"image",
+			"images",
+			"organizadorasObj",
+			"busca",
+			"chamou",
+			"organizadoraController",
+			"buscaController",
+			"get",
+			"date",
+			"utilizado",
+			"allOrganizadoras",
+			"controll",
+			"organizadoraController",
+			"myPictureModal",
+			"verFoto",
+			"categorias",
+			"IDTIPO",
+			"idtipo",
+			"utili",
+			"get",
+			"getUtilizacaoObjeto",
+			"utilizacao",
+			"selecionar",
+			"control",
+			"selecionarOrganizadora",
+			"image",
+			"editarOrganizadora",
+			"show",
+			"modal",
+			"idorganizadora",
+			"IDORGANIZADORA",
+			"idorganizadora",
+			"idOrganizadora",
+			"IDORGANIZADORA",
+			"idorganizadora",
+			"idOrganizadora",
+			"idorganizadora",
+			"organiza",
+			"editarOrganizadora",
+			"modal",
+			"Modal",
+			"modal",
+			"Modal",
+			"modal",
+			"respo",
+			"myPictureModal",
+			"verFoto",
+			"fotoZoom",
+			"abreFoto",
+			"[",
+			"abreFoto",
+			"verFoto",
+			"myModal",
+			"respo",
+			"fotoZoom",
+			"nome re",
+			"idOrganizadora",
+			"editarOrganizadora",
+			"IDORGANIZADORA",
+			"idOrganizadora",
+			"idorganizadora"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6922,
+								6926
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										6926,
+										6927
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										6921,
+										6922
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2539.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2988,
+								2988
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3082,
+										3083
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2965,
+										2966
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3051.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.min.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2202,
+								2206
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2274,
+										2275
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2206,
+										2207
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax"
+						},
+						"translation.x": 16647.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "thiago.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sty",
+				"css\\style.css"
+			],
+			[
+				"objeto",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"inde",
+				"GerenciamentoObjetos\\index.php"
+			],
+			[
+				"o",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"ob",
+				"GerenciamentoObjetos\\objeto.php"
+			],
+			[
+				"contro",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"cadas",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"ima",
+				"GerenciamentoObjetos\\js\\imagemController.js"
+			],
+			[
+				"moda",
+				"GerenciamentoObjetos\\includes\\modalCadastrarContato.php"
+			],
+			[
+				"tio",
+				"GerenciamentoObjetos\\js\\tipoController.js"
+			],
+			[
+				"geretipo",
+				"GerenciamentoObjetos\\tipoObjeto.php"
+			],
+			[
+				"res",
+				"GerenciamentoObjetos\\js\\responsavelController.js"
+			],
+			[
+				"boo",
+				"GerenciamentoObjetos\\css\\bootstrap.css"
+			],
+			[
+				"obje",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"cadastrar",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"orga",
+				"GerenciamentoObjetos\\js\\organizadoraController.js"
+			],
+			[
+				"busc",
+				"GerenciamentoObjetos\\js\\buscaController.js"
+			],
+			[
+				"txt",
+				"GerenciamentoObjetos\\modalObjetos.txt"
+			],
+			[
+				"gere",
+				"GerenciamentoObjetos\\gerenciarOrganizadoras.php"
+			],
+			[
+				"busca",
+				"GerenciamentoObjetos\\js\\buscaController.js"
+			],
+			[
+				"image",
+				"GerenciamentoObjetos\\js\\imagemController.js"
+			],
+			[
+				"boot",
+				"GerenciamentoObjetos\\css\\bootstrap.css"
+			],
+			[
+				"organi",
+				"GerenciamentoObjetos\\js\\organizadoraController.js"
+			],
+			[
+				"tipocon",
+				"GerenciamentoObjetos\\js\\tipoController.js"
+			],
+			[
+				"tipocontro",
+				"GerenciamentoObjetos\\js\\tipoController.js"
+			],
+			[
+				"tipo",
+				"GerenciamentoObjetos\\js\\tipoController.js"
+			],
+			[
+				"respo",
+				"GerenciamentoObjetos\\js\\responsavelController.js"
+			],
+			[
+				"obe",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"objetocon",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"cas",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"edita",
+				"GerenciamentoObjetos\\EditarObjeto.php"
+			],
+			[
+				"cada",
+				"GerenciamentoObjetos\\cadastrarResponsavel.php"
+			],
+			[
+				"",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"objcon",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"logi",
+				"GerenciamentoObjetos\\login.php"
+			],
+			[
+				"ver",
+				"projetopraticoAngularJS\\verNoticia.php"
+			],
+			[
+				"teste",
+				"GerenciamentoObjetos\\teste.html"
+			],
+			[
+				"inc",
+				"GerenciamentoObjetos\\includes\\include_scripts.php"
+			],
+			[
+				"tes",
+				"GerenciamentoObjetos\\teste.html"
+			],
+			[
+				"usu",
+				"GerenciamentoObjetos\\gerenciarUsuarios.php"
+			],
+			[
+				"bus",
+				"GerenciamentoObjetos\\js\\buscaController.js"
+			],
+			[
+				"ind",
+				"GerenciamentoObjetos\\index.php"
+			],
+			[
+				"menu",
+				"GerenciamentoObjetos\\includes\\menu_admin.php"
+			],
+			[
+				"cadastr",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"geren",
+				"GerenciamentoObjetos\\gerenciarUsuarios.php"
+			],
+			[
+				"gereu",
+				"GerenciamentoObjetos\\gerenciarUsuarios.php"
+			],
+			[
+				"re",
+				"GerenciamentoObjetos\\js\\responsavelController.js"
+			],
+			[
+				"he",
+				"GerenciamentoObjetos\\includes\\header.php"
+			],
+			[
+				"includ",
+				"GerenciamentoObjetos\\includes\\header.php"
+			],
+			[
+				"an",
+				"js\\angularScript.js"
+			],
+			[
+				"a",
+				"projetopraticoAngularJS\\servidorchat\\app.js"
+			],
+			[
+				"cadsa",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"boos",
+				"GerenciamentoObjetos\\css\\bootstrap.css"
+			],
+			[
+				"men",
+				"GerenciamentoObjetos\\includes\\menu_admin.php"
+			],
+			[
+				"gerenciar",
+				"GerenciamentoObjetos\\gerenciarUsuarios.php"
+			],
+			[
+				"login",
+				"GerenciamentoObjetos\\js\\loginController.js"
+			],
+			[
+				"tipoc",
+				"GerenciamentoObjetos\\js\\tipoController.js"
+			],
+			[
+				"log",
+				"GerenciamentoObjetos\\login.php"
+			],
+			[
+				"l",
+				"GerenciamentoObjetos\\login.php"
+			],
+			[
+				"control",
+				"GerenciamentoObjetos\\js\\usuarioController.js"
+			],
+			[
+				"lo",
+				"login.php"
+			],
+			[
+				"sc",
+				"js\\script.js"
+			],
+			[
+				"scrip",
+				"js\\angularScript.js"
+			],
+			[
+				"tipoco",
+				"GerenciamentoObjetos\\js\\tipoController.js"
+			],
+			[
+				"head",
+				"GerenciamentoObjetos\\includes\\header.php"
+			],
+			[
+				"app",
+				"projetopraticoAngularJS\\servidorchat\\app.js"
+			],
+			[
+				"st",
+				"GerenciamentoObjetos\\css\\style.css"
+			],
+			[
+				"scrips",
+				"GerenciamentoObjetos\\includes\\include_scripts.php"
+			],
+			[
+				"m",
+				"includes\\menu.php"
+			],
+			[
+				"incs",
+				"includes\\include_scripts.php"
+			],
+			[
+				"scri",
+				"includes\\scripts.php"
+			],
+			[
+				"lis",
+				"admin\\lista_cliente.php"
+			],
+			[
+				"uplo",
+				"admin\\UploadMultiplo.php"
+			],
+			[
+				"adm",
+				"css\\admin.css"
+			],
+			[
+				"ma",
+				"css\\main.css"
+			],
+			[
+				"main",
+				"css\\main.css"
+			],
+			[
+				"bann",
+				"banner_modal.php"
+			],
+			[
+				"con",
+				"contato.php"
+			],
+			[
+				"cabe",
+				"cabecalho.php"
+			],
+			[
+				"conta",
+				"contato.php"
+			],
+			[
+				"mai",
+				"css\\main.css"
+			],
+			[
+				"me",
+				"menu.php"
+			],
+			[
+				"jque",
+				"js\\jquery.js"
+			],
+			[
+				"ban",
+				"banner_modal.php"
+			],
+			[
+				"bo",
+				"css\\bootstrap.min.css"
+			],
+			[
+				"mo",
+				"banner_modal.php"
+			],
+			[
+				"banne",
+				"banner_modal.php"
+			],
+			[
+				"cone",
+				"conexao.php"
+			],
+			[
+				"inici",
+				"js\\inicialController.js"
+			],
+			[
+				"ngso",
+				"js\\angular\\ng-socket-io.js"
+			],
+			[
+				"paine",
+				"js\\painelInicialController.js"
+			],
+			[
+				"controll",
+				"js\\painelInicialController.js"
+			],
+			[
+				"conotr25",
+				"js\\controller25.js"
+			],
+			[
+				"21",
+				"js\\controller21.js"
+			],
+			[
+				"au1",
+				"aula17.html"
+			],
+			[
+				"con17",
+				"js\\controller17.js"
+			],
+			[
+				"aula",
+				"aula09.html"
+			],
+			[
+				"gl",
+				"css\\images\\toggle.svg"
+			],
+			[
+				"de",
+				"default.css"
+			],
+			[
+				"wa",
+				"js\\jquery.waypoints.min.js"
+			],
+			[
+				"slide",
+				"Controls\\slide.php"
+			],
+			[
+				"incl",
+				"Controls\\includes.php"
+			],
+			[
+				"hea",
+				"english\\Controls\\headerPageEn_US.php"
+			],
+			[
+				"e",
+				"experiencia.php"
+			],
+			[
+				"ex",
+				"english\\experience.php"
+			],
+			[
+				"q",
+				"qualificacoes.php"
+			],
+			[
+				"curso",
+				"cursos.php"
+			],
+			[
+				"cer",
+				"certificacao.php"
+			],
+			[
+				"idne",
+				"index.php"
+			],
+			[
+				"b",
+				"Content\\bootstrap.css"
+			],
+			[
+				"ca",
+				"produtos\\agricolas\\Segmentos\\cat_estufas.php"
+			],
+			[
+				"car",
+				"Includes\\carousel.php"
+			],
+			[
+				"foo",
+				"Includes\\footer.php"
+			],
+			[
+				"bot",
+				"css\\bootstrap.css"
+			],
+			[
+				"cat",
+				"produtos\\lonas\\Segmentos\\cat_lonas.php"
+			],
+			[
+				"filme",
+				"filmes_tecnicos.php"
+			],
+			[
+				"lonacma",
+				"produtos\\lonas_pvc\\lonaCaminhaoAmarela.php"
+			],
+			[
+				"told",
+				"produtos\\lonas_pvc\\toldo3.php"
+			],
+			[
+				"toldo",
+				"produtos\\lonas_pvc\\toldo3.php"
+			],
+			[
+				"ten",
+				"produtos\\lonas_pvc\\tenda1.php"
+			],
+			[
+				"cami",
+				"produtos\\lonas_pvc\\lonaCaminhaoAzul.php"
+			],
+			[
+				".css",
+				"css\\bootstrap.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
