@@ -88,7 +88,7 @@ p.btn-pink {
 
 .title {
   color: #ffffff;
-  font: 700 35px 'Myriad Pro';
+  font: 400 35px 'Myriad Pro';
 }
 
 .paragraph {
@@ -100,7 +100,7 @@ p.btn-pink {
 }
 
 .project-description {
-  padding: 40px;
+  padding: 10px;
 }
 
 .project-description .paragraph {
@@ -220,6 +220,7 @@ p.like::before {
   -webkit-transition: all 1s cubic-bezier(.42, 0, .03, 1.41);
   transition: all 1s cubic-bezier(.42, 0, .03, 1.41);
 }
+
 
 a:hover img {
   opacity: 0.1;
