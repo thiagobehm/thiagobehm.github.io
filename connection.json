@@ -1,0 +1,21 @@
+{"details": [
+        {
+            "id": "1054",
+            "name": "Location",
+            "type": {
+                "name": "SELECT",
+                "options": [
+                    "RS",
+                    "SP",
+                    "MS",
+                    "MT"
+                ]
+            },
+            "values": [
+                "RS"
+            ],
+            "configuration": {
+                "position": 0
+            }
+        }
+    ]}
